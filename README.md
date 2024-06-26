@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-    <td><p align="right"> <img src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif" alt="rajnishrv" width="350" height="250"  /> </p></td>
+    <td><p align="right"> <img src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif" alt="rajnishrv" width="325" height="250"  /> </p></td>
     <td>
 - 🌱 I’m currently learning **JDBC**
 
