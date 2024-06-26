@@ -9,12 +9,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="right"> <img src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif" alt="rajnishrv" /> </p>
-- 🌱 I’m currently learning **JDBC**
+
+
+<table>
+  <tr>
+    <td><p align="right"> <img src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif" alt="rajnishrv" width="350" height="250"  /> </p></td>
+    <td>- 🌱 I’m currently learning **JDBC**
 
 - 👨‍💻 All of my projects are available at [https://rajnishrv.github.io/Portfolio/](https://rajnishrv.github.io/Portfolio/)
 
-- 📫 How to reach me **rajnishkumar550443@gmail.com**
+- 📫 How to reach me **rajnishkumar550443@gmail.com**</td>
+  </tr>
+ </table>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
