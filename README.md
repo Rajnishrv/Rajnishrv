@@ -15,6 +15,8 @@
   <tr>
     <td><p align="right"> <img src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif" alt="rajnishrv" width="325" height="250"  /> </p></td>
     <td>
+
+      
 - 🌱 I’m currently learning **JDBC**
 
 - 👨‍💻 All of my projects are available at [https://rajnishrv.github.io/Portfolio/](https://rajnishrv.github.io/Portfolio/)
