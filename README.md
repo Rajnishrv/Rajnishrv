@@ -17,7 +17,7 @@
     <td>
 
       
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://rajnishrv.github.io/Portfolio/](https://rajnishrv.github.io/Portfolio/)
 
